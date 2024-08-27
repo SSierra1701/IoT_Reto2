@@ -1,5 +1,5 @@
 atget id id
-
+battery set 100
 data p "hola" id id
 send p
 
